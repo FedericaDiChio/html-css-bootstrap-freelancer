@@ -1,7 +1,11 @@
+.ms-container-fluid {
+    border: 2px dashed salmon;
+    min-height: 100px;
+}
 
 .ms-container {
     border: 2px dashed salmon;
-    min-height: 150px;
+    min-height: 300px;
 }
 
 
