@@ -1,6 +1,12 @@
 
+.ms-container {
+    border: 2px dashed salmon;
+    min-height: 150px;
+}
+
 
 .ms-bdr {
     border: 1px solid blueviolet;
-    min-height: 100px;
+    min-height: 50px;
 }
+
