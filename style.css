@@ -22,6 +22,26 @@ body {
     background-color: rgb(58,84,109);
 }
 
+/** OK  **/
+#contact .form-control {
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid rgb(44, 62, 80);
+}
+
+
+#footer-up {
+    min-height: 200px;
+}
+
+#footer-down {
+    min-height: 100px;
+}
+
+#jumbotron li {
+    padding: 0px 10px;
+}
+
 
 /*! DA CONTROLLARE  */
 #jumbotron img {
@@ -31,20 +51,4 @@ body {
 #portfolio img {
     width: 100%;
     border-radius: 15px;
-}
-
-/* OK  */
-#contact .form-control {
-    border-radius: 0;
-    border: 0;
-    border-bottom: 1px solid rgb(44, 62, 80);
-}
-
-
-#footer-up {
-    height: 200px;
-}
-
-#footer-down {
-    height: 100px;
 }
