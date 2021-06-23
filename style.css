@@ -1,16 +1,5 @@
-.ms-container-fluid {
-    border: 2px dashed red;
-    min-height: 100px;
+
+
+.bg-blue {
+    background-color: rgb(44, 62, 80);
 }
-
-.ms-container {
-    border: 2px dashed red;
-    min-height: 300px;
-}
-
-
-.ms-bdr {
-    border: 1px solid black;
-    min-height: 50px;
-}
-
