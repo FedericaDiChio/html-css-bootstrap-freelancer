@@ -1,16 +1,16 @@
 .ms-container-fluid {
-    border: 2px dashed salmon;
+    border: 2px dashed red;
     min-height: 100px;
 }
 
 .ms-container {
-    border: 2px dashed salmon;
+    border: 2px dashed red;
     min-height: 300px;
 }
 
 
 .ms-bdr {
-    border: 1px solid blueviolet;
+    border: 1px solid black;
     min-height: 50px;
 }
 
