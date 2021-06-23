@@ -23,15 +23,14 @@ body {
 }
 
 /** OK  **/
+
+
 #contact .form-control {
     border-radius: 0;
     border: 0;
     border-bottom: 1px solid rgb(44, 62, 80);
 }
 
-#jumbotron li {
-    padding: 0px 10px;
-}
 
 
 /*! DA CONTROLLARE  */
