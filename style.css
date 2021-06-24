@@ -23,10 +23,7 @@ body {
 }
 
 /** OK  **/
-
-
 #portfolio img {
-    width: 100%;
     border-radius: 15px;
 }
 
@@ -45,7 +42,6 @@ body {
 #footer-up i {
     padding: 0 10px;
 }
-
 
 .divider::after, .divider::before {
     content: "";
