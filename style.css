@@ -23,15 +23,11 @@ body {
 }
 
 /** OK  **/
-
-
 #contact .form-control {
     border-radius: 0;
     border: 0;
     border-bottom: 1px solid rgb(44, 62, 80);
 }
-
-
 
 /*! DA CONTROLLARE  */
 #jumbotron img {
@@ -42,3 +38,17 @@ body {
     width: 100%;
     border-radius: 15px;
 }
+
+#footer-up i {
+    padding: 0 10px;
+    
+}
+
+.divider::after, .divider::before {
+    content: "";
+    height: 5px;
+    background-color: black;
+    width: 200px;
+    margin: 30px 40px;
+}
+
