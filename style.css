@@ -23,26 +23,29 @@ body {
 }
 
 /** OK  **/
-#contact .form-control {
-    border-radius: 0;
-    border: 0;
-    border-bottom: 1px solid rgb(44, 62, 80);
-}
 
-/*! DA CONTROLLARE  */
-#jumbotron img {
-    max-width: 20%;
-} 
 
 #portfolio img {
     width: 100%;
     border-radius: 15px;
 }
 
+#about .my-btn {
+    border: 1px solid white;
+    color:white;
+    background-color: rgb(26,188,156);
+}
+
+#contact .form-control {
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid rgb(44, 62, 80);
+}
+
 #footer-up i {
     padding: 0 10px;
-    
 }
+
 
 .divider::after, .divider::before {
     content: "";
@@ -52,3 +55,15 @@ body {
     margin: 30px 40px;
 }
 
+/*! CONTROLLARE */
+.divider-light::after, .divider-light::before {
+    content: "";
+    height: 5px;
+    background-color: white;
+    width: 200px;
+    margin: 30px 40px;
+}
+
+#jumbotron img {
+    max-width: 20%;
+} 
