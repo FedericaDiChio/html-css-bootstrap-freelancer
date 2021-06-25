@@ -27,12 +27,6 @@ body {
     border-radius: 15px;
 }
 
-#about .my-btn {
-    border: 1px solid white;
-    color:white;
-    background-color: rgb(26,188,156);
-}
-
 #contact .form-control {
     border-radius: 0;
     border: 0;
@@ -61,5 +55,5 @@ body {
 }
 
 #jumbotron img {
-    max-width: 20%;
+    max-width: 200px;
 } 
